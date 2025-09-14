@@ -3,7 +3,7 @@
 Used Power Query for data cleaning and transformation, and DAX to build calculated metrics and KPIs. Analyzed sales and membership data to uncover patterns in client renewals, demographics, and payment behavior. Identified a low retention rate and provided age and gender specific insights that helped the gym owner implement targeted strategies improving client retention by 15% and driving consistent growth in monthly sales.
 
 
-Dasboard Screenshots:
+Dashboard Screenshots:
 
 ![Sales Overview](sales_overview.png)
 
