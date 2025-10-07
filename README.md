@@ -11,13 +11,13 @@ using DAX calculations and Power Query data transformation, resulting in a 15% i
 
 Dashboard Screenshots:
 
-![Sales Overview](sales_overview.png)
+![Sales Overview](Sales_Overview.png)
 
 
-![Client Demographics](client_demographics.png)
+![Client Demographics](Client_Demographics.png)
 
 
-![Renewal Analysis](renewal.png)
+![Renewal Analysis](Renewal_Analysis.png)
 
 
 📌 **Disclaimer:** Due to data privacy reasons, source data files and Power BI (.pbix) file are not included in this repository.
